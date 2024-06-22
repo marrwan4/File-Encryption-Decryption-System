@@ -1,0 +1,6 @@
+Hello, World!
+This is a sample text file to test the Caesar cipher encryption and decryption.
+1234567890
+Symbols: !@#$%^&*()_+-=[]{}|;:'",.<>?/\
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
