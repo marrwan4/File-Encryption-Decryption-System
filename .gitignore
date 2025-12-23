@@ -1,0 +1,60 @@
+# ---- Build outputs (general) ----
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# ---- CMake ----
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# CMake build folders (common)
+build/
+build-*/
+cmake-build-*/
+out/
+
+# ---- Visual Studio / MSVC ----
+.vs/
+*.vcxproj*
+*.sln
+*.VC.db
+*.VC.VC.opendb
+*.user
+*.suo
+*.tlog
+*.log
+
+# ---- VS Code ----
+.vscode/
+*.code-workspace
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---- Temporary / backups ----
+*.tmp
+*.temp
+*.bak
+*~
+
+# ---- App specific (optional) ----
+# Ignore encrypted/decrypted test artifacts if you create them
+# *.enc
+# *.dec
